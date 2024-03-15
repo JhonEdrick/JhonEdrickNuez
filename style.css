@@ -11,7 +11,13 @@ body {
     margin-right: 80%;
     width: 120px;
     height: 150px;
-    border-radius: 100px
+    border-radius: 100px;
+    }video{
+    width: 300px;
+    height: 250px;
+}music{
+    width: 100px;
+    height: 150px;
     
 }h1{
     text-allign: center;
